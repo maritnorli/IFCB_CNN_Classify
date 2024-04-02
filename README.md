@@ -1,2 +1,2 @@
 # IFCB_CNN_Classify
-Scripts for training classifier for IFCB images
+Scripts under development for training classifier for IFCB images.
